@@ -19,7 +19,19 @@
 
 ## :computer: Project
 
-This is a basic React project generated with [create-react-app][cra] using TypeScript.
+This is a basic React project generated with [create-react-app][cra] using TypeScript. It already includes configuration for TypeScript, ESLint, Redux and others.
+
+## :rocket: Technologies
+
+- [TypeScript][typescript]
+- [React][react]
+- [ESLint][eslint]
+- [Prettier][prettier]
+- [EditorConfig][editorconfig]
+- [Redux][redux]
+- [Redux-Saga][redux-saga]
+- [styled-components][styled-components]
+- [react-router-dom][react-router-dom]
 
 ## :memo: License
 
@@ -27,6 +39,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [cra]: https://create-react-app.dev/docs/getting-started/
 [typescript]: https://www.typescriptlang.org/
+[react]: https://reactjs.org/
 [eslint]: https://eslint.org/
 [prettier]: https://prettier.io/
 [editorconfig]: https://editorconfig.org/
+[styled-components]: https://styled-components.com/
+[react-router-dom]: https://reactrouter.com/web/guides/quick-start
+[redux]: https://redux.js.org/
+[redux-saga]: https://redux-saga.js.org/
